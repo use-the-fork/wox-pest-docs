@@ -1,12 +1,12 @@
 {
-  "ID":"D2D2C23B084D411DB66FE0C79D6C2A6H",   //Plugin ID，32 bit UUID
-  "ActionKeyword":"wpm",                     //Plugin default action keyword
-  "Name":"WPM",                              //Plugin name
-  "Description":"Wox Package Management",    //Plugin description
-  "Author":"qianlifeng",                     //Plugin Author
-  "Version":"1.0.0",                         //Plugin version，must be x.x.x format
-  "Language":"python",                       //Plugin language，we support csharp,python and executable now
-  "Website":"http://www.getwox.com",         //Plugin website or author website
-  "IcoPath": "Images\\pic.png",              //Plugin icon, relative path to the pluign folder
-  "ExecuteFileName":"main.py"                //Execution entry. Dll name for c# plugin, and python file for python plugin
+  "ID":"5c912aee51fd402daeb89e95a8728be4",
+  "ActionKeyword":"pest",
+  "Name":"PEST Docs",
+  "Description":"Wox extension for quickly and easily searching the PEST documentation",
+  "Author": "use-the-fork",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/use-the-fork/wox-mui-docs",
+  "IcoPath": "Images\\icon.svg",
+  "ExecuteFileName": "main.py"
 }
